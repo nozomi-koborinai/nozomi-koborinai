@@ -1,6 +1,15 @@
 ### Hi there 👋
-![](https://github-readme-stats.vercel.app/api?username=nozomi-koborinai&count_private=true&show_icons=true&theme=monokai)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nozomi-koborinai&layout=compact&theme=monokai)
+
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nozomi-koborinai&theme=monokai" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozomi-koborinai&layout=compact&show_icons=true&theme=monokai" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nozomi-koborinai&margin-w=5&theme=monokai)](https://github.com/nozomi-koborinai/)
+
+
+
+
 
 <!--
 **nozomi-koborinai/nozomi-koborinai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
