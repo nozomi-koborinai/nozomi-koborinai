@@ -1,4 +1,4 @@
-### Hi there 👋
+## 🏆 States
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozomi-koborinai&layout=compact&show_icons=true&theme=monokai&hide=html&count_private=true&exclude_repo=QualificationManagement" />
@@ -6,6 +6,11 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nozomi-koborinai&margin-w=5&theme=monokai&title=MultiLanguage,Commit,PullRequest,Repositories,Issues)](https://github.com/nozomi-koborinai/)
+
+## 💚 Hobby
+- 🎧 [Beat Make](https://soundcloud.com/polyphenol98)
+- 🎸 [Guitar](https://www.youtube.com/channel/UCOklMPIdmU6-_CvrTzz2uCw)
+- 🖥 [Programming](https://github.com/nozomi-koborinai/)
 
 
 <!--
