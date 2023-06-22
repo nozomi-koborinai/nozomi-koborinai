@@ -1,4 +1,4 @@
-## 🏆 States
+## 🏆 Status
 
 <p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozomi-koborinai&layout=compact&show_icons=true&theme=monokai&hide=html,css,cmake,java&count_private=true&exclude_repo=QualificationManagement" />
