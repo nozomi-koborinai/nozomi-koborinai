@@ -1,7 +1,7 @@
 ## 🏆 Status
 
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozomi-koborinai&layout=compact&show_icons=true&theme=monokai&hide=html,css,cmake,java&count_private=true&exclude_repo=QualificationManagement" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozomi-koborinai&layout=compact&show_icons=true&theme=monokai&hide=html,css,cmake,java,ruby,c,c%2B%2B&count_private=true&exclude_repo=QualificationManagement" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=nozomi-koborinai&theme=monokai&show_icons=true&count_private=true&hide=contribs" />
 </p>
 
