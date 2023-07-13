@@ -11,7 +11,6 @@
 - 🎧 [Beat Make](https://soundcloud.com/polyphenol98)
 - 🎸 [Guitar](https://www.youtube.com/channel/UCOklMPIdmU6-_CvrTzz2uCw)
 - 🖥 [Programming](https://github.com/nozomi-koborinai/)
-- 📖 [Collecting Qualifications](https://season-topaz-d3c.notion.site/bad471841cc547e5be5e55089ba5b648)
 
 <!--
 **nozomi-koborinai/nozomi-koborinai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
