@@ -9,16 +9,16 @@
 
 <p align="left">
   <a href="https://www.credential.net/a988c9f3-e168-467c-a0e4-7db7f2483c7f" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75336036" alt="Cloud Digital Leader" height="130" width="130" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75336036" alt="Cloud Digital Leader" height="120" width="120" />
   </a>
   <a href="https://google.accredible.com/a7bac464-cc68-4c2e-9ad2-9e36406286aa" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74011556" alt="Associate Cloud Engineer" height="130" width="130" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74011556" alt="Associate Cloud Engineer" height="120" width="120" />
   </a>
   <a href="https://google.accredible.com/8ed9fcba-c711-4ec0-9a4a-031df424bbf0" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79263060" alt="Professional Cloud Architect" height="130" width="130" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79263060" alt="Professional Cloud Architect" height="120" width="120" />
   </a>
   <a href="https://google.accredible.com/bb652ff3-71bb-4271-8331-01336712d8da" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79787872" alt="Professional Cloud Developer" height="130" width="130" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79787872" alt="Professional Cloud Developer" height="120" width="120" />
 </p>  
 
 ## 💚 Hobby
