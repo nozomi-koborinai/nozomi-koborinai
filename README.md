@@ -19,6 +19,10 @@
   </a>
   <a href="https://google.accredible.com/bb652ff3-71bb-4271-8331-01336712d8da" target="blank">
     <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79787872" alt="Professional Cloud Developer" height="120" width="120" />
+  </a>
+  <a href="https://google.accredible.com/9a6d113c-0284-4395-b860-045240c39a80" target="blank">
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80704386" alt="Professional Cloud Security Engineer" height="120" width="120" />
+  </a>
 </p>  
 
 ## 💚 Hobby
