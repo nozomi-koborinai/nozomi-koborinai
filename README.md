@@ -7,23 +7,27 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=nozomi-koborinai&margin-w=5&theme=monokai&title=MultiLanguage,Commit,PullRequest,Repositories,Issues)](https://github.com/nozomi-koborinai/)
 
+## 📜 Certifications
+
 <p align="left">
   <a href="https://www.credential.net/a988c9f3-e168-467c-a0e4-7db7f2483c7f" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75336036" alt="Cloud Digital Leader" height="120" width="120" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75336036" alt="Cloud Digital Leader" height="125" width="125" />
   </a>
   <a href="https://google.accredible.com/a7bac464-cc68-4c2e-9ad2-9e36406286aa" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74011556" alt="Associate Cloud Engineer" height="120" width="120" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74011556" alt="Associate Cloud Engineer" height="125" width="125" />
   </a>
   <a href="https://google.accredible.com/8ed9fcba-c711-4ec0-9a4a-031df424bbf0" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79263060" alt="Professional Cloud Architect" height="120" width="120" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79263060" alt="Professional Cloud Architect" height="125" width="125" />
   </a>
   <a href="https://google.accredible.com/bb652ff3-71bb-4271-8331-01336712d8da" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79787872" alt="Professional Cloud Developer" height="120" width="120" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/79787872" alt="Professional Cloud Developer" height="125" width="125" />
   </a>
   <a href="https://google.accredible.com/9a6d113c-0284-4395-b860-045240c39a80" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80704386" alt="Professional Cloud Security Engineer" height="120" width="120" />
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80704386" alt="Professional Cloud Security Engineer" height="125" width="125" />
   </a>
 </p>  
+
+ #### [📖 Details](https://season-topaz-d3c.notion.site/Certifications-bad471841cc547e5be5e55089ba5b648)
 
 ## 💚 Hobby
 - 🎧 [Beat Make](https://soundcloud.com/polyphenol98)
