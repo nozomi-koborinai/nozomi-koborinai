@@ -28,8 +28,8 @@
   <a href="https://google.accredible.com/9a6d113c-0284-4395-b860-045240c39a80" target="blank">
     <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80704386" alt="Professional Cloud Security Engineer" height="125" width="125" />
   </a>
-  <a href="https://google.accredible.com/hoge" target="blank">
-    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/hoge" alt="Professional Cloud Network Engineer" height="125" width="125" />
+  <a href="https://google.accredible.com/490e5fe6-cd36-4d44-95b4-ad0a066e9518" target="blank">
+    <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92191001" alt="Professional Cloud Network Engineer" height="125" width="125" />
   </a>
 </p>  
 
