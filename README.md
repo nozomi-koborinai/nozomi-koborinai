@@ -8,7 +8,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nozomi-koborinai&margin-w=5&theme=monokai&title=MultiLanguage,Commit,PullRequest,Repositories,Issues)](https://github.com/nozomi-koborinai/)
 
 ## 📚 Published Work
-- **Flutter Architecture**: Contributed to Chapters 2 and 7 in the book on Flutter development practices. [More details](https://zenn.dev/flutteruniv/books/flutter-architecture)
+- [Flutter設計パターン入門](https://zenn.dev/flutteruniv/books/flutter-architecture)
+  - Contributed to Chapters 2 and 7 in the book on Flutter development practices.
+    - [Chapter2_設計パターンを知るメリット](https://zenn.dev/flutteruniv/books/flutter-architecture/viewer/1-2_benefits)
+    - [Chapter7_レイヤードアーキテクチャで作る](https://zenn.dev/flutteruniv/books/flutter-architecture/viewer/5_layered-architecture)
 
 ## 📜 Certifications
 
