@@ -15,6 +15,8 @@
 
 ## 📜 Certifications
 
+### Google Cloud
+
 <p align="left">
   <a href="https://www.credential.net/a988c9f3-e168-467c-a0e4-7db7f2483c7f" target="blank">
     <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75336036" alt="Cloud Digital Leader" height="125" width="125" />
@@ -34,9 +36,11 @@
   <a href="https://google.accredible.com/490e5fe6-cd36-4d44-95b4-ad0a066e9518" target="blank">
     <img align="center" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/92191001" alt="Professional Cloud Network Engineer" height="125" width="125" />
   </a>
-</p>  
+</p>
 
- #### [📖 Details](https://season-topaz-d3c.notion.site/Certifications-bad471841cc547e5be5e55089ba5b648)
+### Details
+
+- [📖 Certifications](https://season-topaz-d3c.notion.site/Certifications-bad471841cc547e5be5e55089ba5b648)
 
 ## 💚 Hobby
 - 🎧 [Beat Make](https://soundcloud.com/polyphenol98)
