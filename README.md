@@ -8,10 +8,12 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=nozomi-koborinai&margin-w=5&theme=monokai&title=MultiLanguage,Commit,PullRequest,Repositories,Issues)](https://github.com/nozomi-koborinai/)
 
 ## 📚 Published Work
+- [【Firebase】GDG Tokyo Monthly Online Tech Talks](https://www.youtube.com/live/1cnVIyXRRjg?si=37rfXNBKVSZ_qEqm&t=1984)
+  - Firebase における IaC と CI/CD パイプライン構築のすゝめ
 - [Flutter設計パターン入門](https://zenn.dev/flutteruniv/books/flutter-architecture)
   - Contributed to Chapters 2 and 7 in the book on Flutter development practices.
     - [Chapter2_設計パターンを知るメリット](https://zenn.dev/flutteruniv/books/flutter-architecture/viewer/1-2_benefits)
-    - [Chapter7_レイヤードアーキテクチャで作る](https://zenn.dev/flutteruniv/books/flutter-architecture/viewer/5_layered-architecture)
+    - [Chapter7_レイヤードアーキテクチャで作る](https://zenn.dev/flutteruniv/books/flutter-architecture/viewer/5_layered-architecture) 
 
 ## 📜 Certifications
 
