@@ -48,8 +48,7 @@
 - [📖 Certifications](https://season-topaz-d3c.notion.site/Certifications-bad471841cc547e5be5e55089ba5b648)
 
 ## 💚 Hobby
-- 🎧 [Beat Make](https://soundcloud.com/polyphenol98)
-- 🎸 [Guitar](https://www.youtube.com/channel/UCOklMPIdmU6-_CvrTzz2uCw)
+- 🎧 [Guitar](https://www.youtube.com/channel/UCOklMPIdmU6-_CvrTzz2uCw)
 - 🖥 [Programming](https://github.com/nozomi-koborinai/)
 
 <!--
