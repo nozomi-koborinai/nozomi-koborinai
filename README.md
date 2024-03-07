@@ -12,7 +12,8 @@
   - Contributed to Chapters 2 and 7 in the book on Flutter development practices.
     - [Chapter2_設計パターンを知るメリット](https://zenn.dev/flutteruniv/books/flutter-architecture/viewer/1-2_benefits)
     - [Chapter7_レイヤードアーキテクチャで作る](https://zenn.dev/flutteruniv/books/flutter-architecture/viewer/5_layered-architecture)
-- 【Firebase】GDG Tokyo Monthly Online Tech Talks
+   
+- [【Firebase】GDG Tokyo Monthly Online Tech Talks](https://gdg-tokyo.connpass.com/event/306983/)
   - Firebase における IaC と CI/CD パイプライン構築のすゝめ
 
 ## 📜 Certifications
