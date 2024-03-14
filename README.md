@@ -16,6 +16,8 @@
 - [【Firebase】GDG Tokyo Monthly Online Tech Talks](https://gdg-tokyo.connpass.com/event/306983/)
   - Firebase における IaC と CI/CD パイプライン構築のすゝめ
 
+- [Introduction to Flutter Design Patterns](https://zenn.dev/flutteruniv/books/flutter-architechture-en)
+
 ## 📜 Certifications
 
 ### Google Cloud
