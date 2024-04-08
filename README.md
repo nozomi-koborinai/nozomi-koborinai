@@ -52,7 +52,7 @@
 
 ## 💚 Hobby
 - 🎧 [Guitar](https://www.youtube.com/channel/UCOklMPIdmU6-_CvrTzz2uCw)
-- 🖥 [Programming](https://github.com/nozomi-koborinai/)
+- 🖥 [Programming](https://zenn.dev/nozomi_cobo)
 
 <!--
 **nozomi-koborinai/nozomi-koborinai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
