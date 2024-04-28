@@ -25,7 +25,7 @@
 - Google Cloud リテールテック JAPAN 2024 振り返りセミナー
   - [Google Maps・Firebase・PaLM の技術統合による開発効率と柔軟性の向上](https://cloudonair.withgoogle.com/events/gc-rt-2024?talk=session2)
 
-- [TECH+ セミナー 2024 リテールDX]
+- TECH+ セミナー 2024 リテールDX
   - [競争力を高めるリテールDX戦略: Webサイトとモバイルアプリによる店舗在庫の可視化と内製化戦略](https://news.mynavi.jp/techplus/lp/2024/enterprise/RetailDX_202405/)
 
 ## 📜 Certifications
