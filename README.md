@@ -18,6 +18,16 @@
 
 - [Introduction to Flutter Design Patterns](https://zenn.dev/flutteruniv/books/flutter-architechture-en)
 
+- Flutter大学 共同勉強会
+  - [Riverpod の DI 機能を活用して Layered Architecture を構築してみた](https://flutteruniv.com/materials/lecture_videos/KmhHdRq40HQvUlLaT7S8)
+  - [Firebase における IaC と CI/CD パイプライン構築のすゝめ（拡大版）](https://flutteruniv.com/materials/lecture_videos/917696879)
+
+- Google Cloud リテールテック JAPAN 2024 振り返りセミナー
+  - [Google Maps・Firebase・PaLM の技術統合による開発効率と柔軟性の向上](https://cloudonair.withgoogle.com/events/gc-rt-2024?talk=session2)
+
+- [TECH+ セミナー 2024 リテールDX]
+  - [競争力を高めるリテールDX戦略: Webサイトとモバイルアプリによる店舗在庫の可視化と内製化戦略](https://news.mynavi.jp/techplus/lp/2024/enterprise/RetailDX_202405/)
+
 ## 📜 Certifications
 
 ### Google Cloud
